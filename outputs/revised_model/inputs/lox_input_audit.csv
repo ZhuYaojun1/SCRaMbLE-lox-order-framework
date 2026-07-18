@@ -1,0 +1,5 @@
+chromosome,raw_header_columns,nonempty_records,removed_blank_records,unique_lox_id,duplicate_lox_id,lox_order_min,lox_order_max,candidate_same_chromosome_pairs,sites_with_observed_frequency,removed_blank_examples
+SynII,273,273,0,273,0,0,272,37128,273,
+SynIII,273,100,173,100,0,0,99,4950,100,100;101;102;103;104;105;106;107;108;109
+SynIXR,273,44,229,44,0,0,43,946,44,44;45;46;47;48;49;50;51;52;53
+SynVI,273,71,202,71,0,0,70,2485,71,71;72;73;74;75;76;77;78;79;80

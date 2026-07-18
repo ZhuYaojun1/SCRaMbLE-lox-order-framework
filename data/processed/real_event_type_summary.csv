@@ -1,0 +1,28 @@
+dataset,condition,event_type,event_count,event_fraction,source_file,source_sheet
+zhang_2022_gce,overall,inversion,701.0,0.4049682264586944,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Fig2B
+zhang_2022_gce,overall,deletion,765.0,0.44194107452339687,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Fig2B
+zhang_2022_gce,overall,duplication,265.0,0.15309069901790873,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Fig2B
+zhang_2022_gce,OMeY 1 mM,inversion,34.0,0.5074626865671642,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 1 mM,deletion,29.0,0.43283582089552236,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 1 mM,duplication,4.0,0.05970149253731343,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 2 mM,inversion,19.0,0.4523809523809524,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 2 mM,deletion,21.0,0.5,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 2 mM,duplication,2.0,0.047619047619047616,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 5 mM,inversion,48.0,0.6153846153846154,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 5 mM,deletion,26.0,0.3333333333333333,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 5 mM,duplication,4.0,0.05128205128205128,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 10 mM,inversion,51.0,0.51,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 10 mM,deletion,42.0,0.42,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY 10 mM,duplication,7.0,0.07,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG14,inversion,34.0,0.5074626865671642,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG14,deletion,29.0,0.43283582089552236,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG14,duplication,4.0,0.05970149253731343,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG5,inversion,50.0,0.4672897196261682,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG5,deletion,55.0,0.514018691588785,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,OMeY CreUAG5,duplication,2.0,0.018691588785046728,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG14,inversion,34.0,0.5074626865671642,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG14,deletion,29.0,0.43283582089552236,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG14,duplication,4.0,0.05970149253731343,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG5,inversion,50.0,0.4672897196261682,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG5,deletion,55.0,0.514018691588785,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3
+zhang_2022_gce,Cre variant CreUAG5,duplication,2.0,0.018691588785046728,./data\raw\zhang_2022_gce\41467_2022_33606_MOESM4_ESM.xlsx,Suppl Fig3

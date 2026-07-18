@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large regenerated simulation artifacts
+outputs/revised_model/main_run/scenarios/
+outputs/revised_model/main_run/logs/
+outputs/revised_model/robustness/scenarios/
+outputs/revised_model/robustness/logs/
+outputs/revised_model/dry_run/
+outputs/revised_model/public_test_run/
+*.sqlite
+*.partial.csv
+.validation_smoke/

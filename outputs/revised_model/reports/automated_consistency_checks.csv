@@ -1,0 +1,18 @@
+check,status,observed,expected
+active lox counts by chromosome,PASS,"{""SynII"": 273, ""SynIII"": 100, ""SynIXR"": 44, ""SynVI"": 71}","{""SynII"": 273, ""SynIII"": 100, ""SynVI"": 71, ""SynIXR"": 44}"
+active lox total,PASS,488,488
+removed blank padding,PASS,604,604
+candidate pair total,PASS,45509,45509
+direct Hi-C restricted to SynII,PASS,SynII,SynII only
+formal scenario count,PASS,88,88
+formal trajectory depth,PASS,10000,10000
+trajectory balance,PASS,88,88
+accepted event balance,PASS,88,88
+predicted site rows,PASS,42944,42944
+unique aligned sites per scenario,PASS,488,488
+rarefied effective diversity mathematical bound,PASS,176,176
+rarefaction replicates,PASS,100,>=100
+robustness return codes,PASS,36,36
+endpoint isomorphism audit scenarios,PASS,88,88
+unlabeled topology cannot increase unique endpoints,PASS,88,88
+unlabeled rarefied diversity mathematical bound,PASS,88,88

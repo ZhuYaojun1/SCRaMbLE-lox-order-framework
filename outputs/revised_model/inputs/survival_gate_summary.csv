@@ -1,0 +1,9 @@
+gate_name,n_genes,version,conflict_rule
+strict,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+high_confidence,150,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+expanded,223,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+random_control_1,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+random_control_2,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+random_control_3,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+random_control_4,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded
+random_control_5,99,revised-segment-model-v1,Ambiguous excluded from strict and included only in expanded

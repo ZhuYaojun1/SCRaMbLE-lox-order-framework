@@ -1,0 +1,6 @@
+chromosome,total_candidate_pairs,direct_hic_pairs,distance_fallback_pairs,missing_contact_pairs,zero_contact_pairs,unresolved_coordinate_pairs,direct_hic_fraction,fallback_fraction,model_label
+SynII,37128,36046,1082,1082,0,0,0.9708575737987503,0.02914242620124973,partially Hi-C-informed sampling with distance-based fallback
+SynIII,4950,0,4950,4950,0,0,0.0,1.0,partially Hi-C-informed sampling with distance-based fallback
+SynIXR,946,0,946,903,0,43,0.0,1.0,partially Hi-C-informed sampling with distance-based fallback
+SynVI,2485,0,2485,2485,0,0,0.0,1.0,partially Hi-C-informed sampling with distance-based fallback
+ALL,45509,36046,9463,9420,0,43,0.7920631083961415,0.2079368916038586,partially Hi-C-informed sampling with distance-based fallback

@@ -1,0 +1,12 @@
+test_deleting_one_duplicated_instance_does_not_zero_all_copies (test_segment_engine.SegmentEngineTests.test_deleting_one_duplicated_instance_does_not_zero_all_copies) ... ok
+test_deletion_keeps_one_boundary_and_specific_instances (test_segment_engine.SegmentEngineTests.test_deletion_keeps_one_boundary_and_specific_instances) ... ok
+test_duplication_creates_segment_and_lox_instances (test_segment_engine.SegmentEngineTests.test_duplication_creates_segment_and_lox_instances) ... ok
+test_inversion_changes_order_and_orientation_without_copy_change (test_segment_engine.SegmentEngineTests.test_inversion_changes_order_and_orientation_without_copy_change) ... ok
+test_multistep_topology_remains_reconstructable (test_segment_engine.SegmentEngineTests.test_multistep_topology_remains_reconstructable) ... ok
+test_partial_hic_sampler_uses_additive_component_masses (test_segment_engine.SegmentEngineTests.test_partial_hic_sampler_uses_additive_component_masses) ... ok
+test_signatures_distinguish_inversion_from_copy_number (test_segment_engine.SegmentEngineTests.test_signatures_distinguish_inversion_from_copy_number) ... ok
+System.Management.Automation.RemoteException
+----------------------------------------------------------------------
+Ran 7 tests in 1.423s
+System.Management.Automation.RemoteException
+OK

@@ -1,0 +1,5 @@
+chromosome,fasta_record,fasta_length,fig2c_nonempty_records,physical_loxpsym_hits,coordinate_complete,unresolved_records
+SynII,chr2,770032,273,273,True,0
+SynIII,chr3,272194,100,100,True,0
+SynVI,chr6,242745,71,71,True,0
+SynIXR,chr9,442490,44,43,False,1

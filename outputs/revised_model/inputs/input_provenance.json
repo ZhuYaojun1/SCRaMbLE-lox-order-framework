@@ -1,0 +1,20 @@
+{
+  "builder": "./scripts\\revised_model\\build_revised_inputs.py",
+  "sources": {
+    "./data\\raw\\zhang_2022_gce\\41467_2022_33606_MOESM4_ESM.xlsx": "f00838baef6af2dd67c56860074c4621922f1f58f8c4f75f82bcb63002e22546",
+    "./data\\raw\\zhou_2023_nsr\\A study of Dynamics of synthetic yeast chromosome evolution shaped by hierarchical chromatin organization. Sijie Zhou et al\\GSE168182_yZSJ025.fa": "e963a4fd72d8752a021c1d92412163d14a09a54e42e52c36b9ffe7343cf028a5",
+    "./data\\processed\\real_hic_contact_matrix.csv": "e8d329c4916c06275adecc70ac372677096121108b211698db210d53f033ee53",
+    "./data\\processed\\real_gene_annotation.csv": "f3e37a0ff5b7816887059898ca0dad562c81e0f5bfe26f390c65d6e0b9e6faf1",
+    "./outputs\\revised_model\\input_sources\\CP013608.gb": "2e465820c9e7cbd554f7f402dbcf816738d74e9f5de8f3450698ea5d92375132",
+    "./outputs\\revised_model\\input_sources\\KC880027.gb": "3e81fdc659829b682d5579b5c07c0af2bf5d289a62dd7549b9c686fcc422b532",
+    "./outputs\\revised_model\\input_sources\\CP135953.gb": "185e4e3955cd414c3791c53df746a6275860a68e07c6bd33bc7e728465281255",
+    "./outputs\\revised_model\\input_sources\\JN020955.gb": "3c217e3a4d2e52ef82af7df963677f352349083bfd53dfadd83285054c0ec520"
+  },
+  "assertions": {
+    "validated_lox_records": 488,
+    "removed_blank_records": 604,
+    "candidate_same_chromosome_pairs": 45509,
+    "coordinate_resolved_lox": 487,
+    "gene_risk_eligible_orfs": 717
+  }
+}

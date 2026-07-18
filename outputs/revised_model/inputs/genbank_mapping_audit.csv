@@ -1,0 +1,5 @@
+chromosome,source_accession,source_sequence_length,target_fasta_record,target_sequence_length,selected_features,mapped_features,unresolved_features
+SynII,CP013608,769861,chr2,770032,455,452,3
+SynIII,KC880027,272875,chr3,272194,165,160,5
+SynVI,CP135953,249105,chr6,242745,127,126,1
+SynIXR,JN020955,91010,chr9,442490,55,54,1
