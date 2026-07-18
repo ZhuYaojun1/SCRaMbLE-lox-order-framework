@@ -1,0 +1,177 @@
+model_key,model_name,alpha,p_event,seed,endpoint_type,sample_size,unique_endpoints,shannon_entropy,effective_shannon_diversity,inverse_simpson_diversity,sample_size_standardized
+linear_distance,linear-distance sampling,0.5,0.03,3697332404,structural,8007,2561,3.1829263596145694,24.117226064186053,2.197612600394626,False
+linear_distance,linear-distance sampling,0.5,0.03,3697332404,orf_copy_number,8007,1035,1.3221865648674604,3.75161556622659,1.3334033741160911,False
+linear_distance,linear-distance sampling,0.5,0.05,1368124422,structural,6889,3230,4.540485178925515,93.7362679503313,3.65080099299761,False
+linear_distance,linear-distance sampling,0.5,0.05,1368124422,orf_copy_number,6889,1349,1.9987421274604984,7.379767451363063,1.5912719101434023,False
+linear_distance,linear-distance sampling,0.5,0.07,2525498675,structural,5848,3464,5.560045344805223,259.834618205978,6.246952521551633,False
+linear_distance,linear-distance sampling,0.5,0.07,2525498675,orf_copy_number,5848,1466,2.517396670478824,12.396283010769608,1.859786277767556,False
+linear_distance,linear-distance sampling,0.5,0.09,340349571,structural,5178,3635,6.413819376087363,610.2198951660125,11.802039278382106,False
+linear_distance,linear-distance sampling,0.5,0.09,340349571,orf_copy_number,5178,1730,3.2762583014690536,26.476519972892813,2.391517380895463,False
+linear_distance,linear-distance sampling,0.5,0.1,3432696791,structural,4791,3576,6.720569940417187,829.2900227185706,16.4137643275619,False
+linear_distance,linear-distance sampling,0.5,0.1,3432696791,orf_copy_number,4791,1769,3.5742992072747457,35.66961504801096,2.6840580940490484,False
+linear_distance,linear-distance sampling,0.5,0.12,2826128352,structural,4151,3373,7.10726492396914,1220.803984012768,29.50141165311512,False
+linear_distance,linear-distance sampling,0.5,0.12,2826128352,orf_copy_number,4151,1778,4.025184702503198,55.99064943974923,3.2701868664544747,False
+linear_distance,linear-distance sampling,0.5,0.15,3791611920,structural,3381,2978,7.415447359854388,1661.452269212864,70.13455509267493,False
+linear_distance,linear-distance sampling,0.5,0.15,3791611920,orf_copy_number,3381,1697,4.547923197070964,94.43607939096177,4.325887104678487,False
+linear_distance,linear-distance sampling,0.5,0.18,732349602,structural,2680,2498,7.5450320598146146,1891.3233719223745,207.8842257597686,False
+linear_distance,linear-distance sampling,0.5,0.18,732349602,orf_copy_number,2680,1586,5.12005371935735,167.34435901107204,6.382698890599058,False
+linear_distance,linear-distance sampling,0.5,0.2,2160132656,structural,2406,2275,7.5178365017792625,1840.580889838723,293.87937861711856,False
+linear_distance,linear-distance sampling,0.5,0.2,2160132656,orf_copy_number,2406,1522,5.358332844306394,212.3705963044061,7.82820994098587,False
+linear_distance,linear-distance sampling,0.5,0.25,1175439774,structural,1582,1547,7.28489857324263,1458.1132336595754,880.6206896551722,False
+linear_distance,linear-distance sampling,0.5,0.25,1175439774,orf_copy_number,1582,1156,5.760276835852039,317.4361944744867,14.160484327260374,False
+linear_distance,linear-distance sampling,0.5,0.3,3346694520,structural,1144,1139,7.032888832066169,1133.2997986435084,1114.7666098807492,False
+linear_distance,linear-distance sampling,0.5,0.3,3346694520,orf_copy_number,1144,937,6.093411796458027,442.9300232282973,31.042125237191616,False
+linear_distance,linear-distance sampling,1.0,0.03,280539570,structural,8436,2836,3.461468588355024,31.86373688333145,2.40009615750405,False
+linear_distance,linear-distance sampling,1.0,0.03,280539570,orf_copy_number,8436,1200,1.5884007201514971,4.895912729291253,1.426522866128849,False
+linear_distance,linear-distance sampling,1.0,0.05,4156490522,structural,7486,3714,4.991925253396645,147.21958583628566,4.422754153972863,False
+linear_distance,linear-distance sampling,1.0,0.05,4156490522,orf_copy_number,7486,1628,2.473342047573584,11.862024129195456,1.8244283591746444,False
+linear_distance,linear-distance sampling,1.0,0.07,1740433454,structural,6733,4201,6.05676016526276,426.9898170399976,8.139361505965294,False
+linear_distance,linear-distance sampling,1.0,0.07,1740433454,orf_copy_number,6733,1950,3.170589477756557,23.8215224760695,2.275595365350625,False
+linear_distance,linear-distance sampling,1.0,0.09,1595675989,structural,5895,4237,6.734324151321722,840.7750553129854,14.605597456389416,False
+linear_distance,linear-distance sampling,1.0,0.09,1595675989,orf_copy_number,5895,2155,3.861090320765405,47.51713205073486,2.947814283507578,False
+linear_distance,linear-distance sampling,1.0,0.1,3958821903,structural,5578,4263,7.052556919720224,1155.8102818536129,20.97722001682811,False
+linear_distance,linear-distance sampling,1.0,0.1,3958821903,orf_copy_number,5578,2170,4.136613620821871,62.59050697387168,3.336890070607091,False
+linear_distance,linear-distance sampling,1.0,0.12,2778378777,structural,4985,4173,7.507538265205232,1821.723418410887,44.54028035925846,False
+linear_distance,linear-distance sampling,1.0,0.12,2778378777,orf_copy_number,4985,2291,4.719476270885416,112.10952226890736,4.421454768215563,False
+linear_distance,linear-distance sampling,1.0,0.15,1037225636,structural,4048,3675,7.798017400604578,2435.7680350883675,133.45417229977366,False
+linear_distance,linear-distance sampling,1.0,0.15,1037225636,orf_copy_number,4048,2285,5.4401057499190255,230.46655399145124,6.963336288142322,False
+linear_distance,linear-distance sampling,1.0,0.18,1673311115,structural,3477,3286,7.877539696097831,2637.375824975089,331.77444496281475,False
+linear_distance,linear-distance sampling,1.0,0.18,1673311115,orf_copy_number,3477,2179,5.82253517280092,337.82741980751115,9.684988484108068,False
+linear_distance,linear-distance sampling,1.0,0.2,3518261095,structural,3066,2937,7.8347933434280765,2527.013231507423,533.9897750511249,False
+linear_distance,linear-distance sampling,1.0,0.2,3518261095,orf_copy_number,3066,2062,6.04483415074874,421.92777527405855,12.434826778840442,False
+linear_distance,linear-distance sampling,1.0,0.25,92951844,structural,2370,2340,7.725728101918609,2265.9017944373827,1702.0909090909097,False
+linear_distance,linear-distance sampling,1.0,0.25,92951844,orf_copy_number,2370,1823,6.4497914359859205,632.5703476423326,23.01385690755778,False
+linear_distance,linear-distance sampling,1.0,0.3,1561271711,structural,1682,1674,7.415981990832519,1662.3407705536786,1612.9555302166475,False
+linear_distance,linear-distance sampling,1.0,0.3,1561271711,orf_copy_number,1682,1444,6.746773800543196,851.3078385112434,64.31873778020278,False
+linear_distance,linear-distance sampling,1.5,0.03,2576302229,structural,8776,2981,3.713365305827361,40.99152368036103,2.628173982549768,False
+linear_distance,linear-distance sampling,1.5,0.03,2576302229,orf_copy_number,8776,1307,1.8119698941390527,6.122496230346488,1.5153531019650588,False
+linear_distance,linear-distance sampling,1.5,0.05,2692316041,structural,8093,4063,5.266397777251115,193.71689270112125,5.0208951985904,False
+linear_distance,linear-distance sampling,1.5,0.05,2692316041,orf_copy_number,8093,1798,2.791080590479821,16.298622425689082,2.019173542355719,False
+linear_distance,linear-distance sampling,1.5,0.07,1182193551,structural,7363,4585,6.307929493328046,548.907255283111,9.536935596824478,False
+linear_distance,linear-distance sampling,1.5,0.07,1182193551,orf_copy_number,7363,2149,3.593125098454552,36.347488100961165,2.665875745192257,False
+linear_distance,linear-distance sampling,1.5,0.09,2683194250,structural,6743,4938,7.100725637167722,1212.8468420052834,19.603831685238728,False
+linear_distance,linear-distance sampling,1.5,0.09,2683194250,orf_copy_number,6743,2486,4.338977218351955,76.62912438231837,3.612343909578684,False
+linear_distance,linear-distance sampling,1.5,0.1,140491699,structural,6433,5026,7.422582626480698,1673.3495688669034,29.69856062394732,False
+linear_distance,linear-distance sampling,1.5,0.1,140491699,orf_copy_number,6433,2634,4.741213344307802,114.57313403673244,4.371082372746267,False
+linear_distance,linear-distance sampling,1.5,0.12,2157732798,structural,5975,5030,7.765026962212014,2356.722030105563,55.30684692974914,False
+linear_distance,linear-distance sampling,1.5,0.12,2157732798,orf_copy_number,5975,2744,5.18884992480267,179.26226924401848,5.607695476993692,False
+linear_distance,linear-distance sampling,1.5,0.15,426479639,structural,5236,4760,8.081500014366267,3234.08076766583,163.77357228195942,False
+linear_distance,linear-distance sampling,1.5,0.15,426479639,orf_copy_number,5236,2909,5.8694158192857016,354.0420952804265,8.77615124239489,False
+linear_distance,linear-distance sampling,1.5,0.18,3754543510,structural,4593,4380,8.21010389390534,3677.924560363349,530.0281148714856,False
+linear_distance,linear-distance sampling,1.5,0.18,3754543510,orf_copy_number,4593,2953,6.430278810933245,620.3468833969506,14.675019704059984,False
+linear_distance,linear-distance sampling,1.5,0.2,770846889,structural,4289,4173,8.244999422649734,3808.5332591545225,1191.3425943915545,False
+linear_distance,linear-distance sampling,1.5,0.2,770846889,orf_copy_number,4289,2986,6.721451369236478,830.0213050834755,20.49884610198653,False
+linear_distance,linear-distance sampling,1.5,0.25,2950421996,structural,3311,3287,8.080701129325647,3231.4981406687784,2803.0480695474307,False
+linear_distance,linear-distance sampling,1.5,0.25,2950421996,orf_copy_number,3311,2664,7.1375420209883815,1258.3316320343024,47.49652746186277,False
+linear_distance,linear-distance sampling,1.5,0.3,2308636446,structural,2658,2648,7.875405669671693,2631.7535963947835,2552.3713872832373,False
+linear_distance,linear-distance sampling,1.5,0.3,2308636446,orf_copy_number,2658,2331,7.323848956280115,1516.0278796142943,109.35122585438342,False
+linear_distance,linear-distance sampling,2.0,0.03,624955490,structural,9086,2990,3.882446771870261,48.54284314735845,2.8243003821913004,False
+linear_distance,linear-distance sampling,2.0,0.03,624955490,orf_copy_number,9086,1302,2.0034645143785754,7.414699986187564,1.6093231323276198,False
+linear_distance,linear-distance sampling,2.0,0.05,2715674654,structural,8555,4164,5.4730345459916885,238.18187106650416,5.681866438298998,False
+linear_distance,linear-distance sampling,2.0,0.05,2715674654,orf_copy_number,8555,1825,2.996060105174375,20.006557707260846,2.181977056931104,False
+linear_distance,linear-distance sampling,2.0,0.07,308999449,structural,7988,4977,6.611998608712628,743.9684356359561,11.951346621234864,False
+linear_distance,linear-distance sampling,2.0,0.07,308999449,orf_copy_number,7988,2254,3.909737980015206,49.88587916351408,3.067426406785935,False
+linear_distance,linear-distance sampling,2.0,0.09,3011066200,structural,7424,5340,7.2669827173693236,1432.22250690837,22.84226275091322,False
+linear_distance,linear-distance sampling,2.0,0.09,3011066200,orf_copy_number,7424,2608,4.608833330874811,100.3669862401856,4.159423166351491,False
+linear_distance,linear-distance sampling,2.0,0.1,4101281670,structural,7285,5604,7.592968756476786,1984.195371384643,34.522158525059055,False
+linear_distance,linear-distance sampling,2.0,0.1,4101281670,orf_copy_number,7285,2804,4.970955276512005,144.16453861055246,4.989470364010456,False
+linear_distance,linear-distance sampling,2.0,0.12,4216611858,structural,6805,5715,7.9871007245992285,2942.752728832876,73.95805883358173,False
+linear_distance,linear-distance sampling,2.0,0.12,4216611858,orf_copy_number,6805,3043,5.458338370349413,234.7071038879824,6.556560783581366,False
+linear_distance,linear-distance sampling,2.0,0.15,3319947148,structural,6173,5672,8.350449915198029,4232.084393946144,279.268657153955,False
+linear_distance,linear-distance sampling,2.0,0.15,3319947148,orf_copy_number,6173,3379,6.22391383237627,504.674583458474,11.33913681828096,False
+linear_distance,linear-distance sampling,2.0,0.18,1764842416,structural,5557,5335,8.440222318993207,4629.584114636227,785.5371015746225,False
+linear_distance,linear-distance sampling,2.0,0.18,1764842416,orf_copy_number,5557,3527,6.735701874417825,841.934208838258,18.481726998126103,False
+linear_distance,linear-distance sampling,2.0,0.2,212422559,structural,5255,5119,8.456264466938192,4704.451499166669,1481.4132825492195,False
+linear_distance,linear-distance sampling,2.0,0.2,212422559,orf_copy_number,5255,3653,7.084178708695114,1192.9430792684086,28.56554345858441,False
+linear_distance,linear-distance sampling,2.0,0.25,1281578188,structural,4468,4433,8.377241181102432,4346.999783144,3568.649267071863,False
+linear_distance,linear-distance sampling,2.0,0.25,1281578188,orf_copy_number,4468,3580,7.54010889856926,1882.0349649186408,71.66610663564951,False
+linear_distance,linear-distance sampling,2.0,0.3,3171143693,structural,3710,3698,8.21037605744553,3678.925693562048,3580.67117585848,False
+linear_distance,linear-distance sampling,2.0,0.3,3171143693,orf_copy_number,3710,3250,7.688799418721434,2183.7512169456186,144.85781641373222,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.03,1710054020,structural,8084,2535,3.1345201418240265,22.977607203474346,2.1641052044779787,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.03,1710054020,orf_copy_number,8084,975,1.2586834712763169,3.5207832225885176,1.314440928732144,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.05,2452768872,structural,6981,3319,4.637769554729686,103.3136549522292,3.801440221441967,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.05,2452768872,orf_copy_number,6981,1358,2.019632603418465,7.53555588755098,1.6010498438467238,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.07,1291112168,structural,6098,3650,5.665395115434599,288.70202921179174,6.560320803915139,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.07,1291112168,orf_copy_number,6098,1612,2.690292801969418,14.735990015721878,1.9541455643219008,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.09,1982738802,structural,5276,3749,6.515745940194525,675.697803732882,12.754366817229185,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.09,1982738802,orf_copy_number,5276,1777,3.4076959526061894,30.195591974137542,2.514262632744027,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.1,3581944228,structural,4993,3743,6.793494682402262,892.0254668049837,17.180139577161288,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.1,3581944228,orf_copy_number,4993,1872,3.699641494456176,40.43280637618066,2.806571642694524,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.12,2199721088,structural,4218,3444,7.1498313305504055,1273.8910705460148,30.77798844410613,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.12,2199721088,orf_copy_number,4218,1826,4.141966152320594,62.926422832089074,3.44515622319292,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.15,3528955751,structural,3527,3117,7.479611552477767,1771.5524870846675,75.14227811705292,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.15,3528955751,orf_copy_number,3527,1852,4.857525893869479,128.70537710403906,5.074426819990578,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.18,4293388631,structural,2758,2572,7.576336225556446,1951.466120177263,213.0093531223747,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.18,4293388631,orf_copy_number,2758,1686,5.341423042401042,208.8096439414738,7.355520099020424,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.2,992375073,structural,2426,2307,7.560811383646955,1921.40387675758,362.4954422271496,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.2,992375073,orf_copy_number,2426,1542,5.471780958706659,237.88347637238465,8.604371281121615,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.25,1877462373,structural,1744,1711,7.396980730679067,1631.0524017044622,1085.487508922198,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.25,1877462373,orf_copy_number,1744,1299,5.997440483256844,402.3975310708309,17.352441807393873,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.3,1407851898,structural,1164,1156,7.042628778466617,1144.3920090153329,1096.194174757282,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,0.5,0.3,1407851898,orf_copy_number,1164,944,6.056188411912192,426.74575396003735,28.45583231822572,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.03,3083522482,structural,8349,2751,3.4096731258987125,30.2553529515768,2.365596226736661,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.03,3083522482,orf_copy_number,8349,1107,1.5100716939399994,4.527055345114237,1.4016142920427128,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.05,967491237,structural,7314,3582,4.889413133789903,132.87557098208202,4.233816717841667,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.05,967491237,orf_copy_number,7314,1553,2.38396311412828,10.847808891710638,1.7792455024112388,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.07,3160849969,structural,6632,4030,5.925946856826487,374.63299128215766,7.554200172438078,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.07,3160849969,orf_copy_number,6632,1858,3.1799600634387777,24.04579322659524,2.302760175674673,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.09,2440376121,structural,5685,4097,6.747403334298328,851.8439342590739,15.213063307536697,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.09,2440376121,orf_copy_number,5685,1983,3.7670000326058446,43.25012106677856,2.8824396619652,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.1,655664069,structural,5307,3967,6.880084761727423,972.7088047763172,18.14925445269502,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.1,655664069,orf_copy_number,5307,2039,4.090786202275959,59.78687781084034,3.3177295169650494,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.12,2377434645,structural,4817,3960,7.355333206824648,1564.518216699285,36.20177112375556,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.12,2377434645,orf_copy_number,4817,2125,4.55354094021717,94.96808997898772,4.128591445670478,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.15,3687257994,structural,3981,3561,7.684190667109913,2173.7100065012,98.28989524996749,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.15,3687257994,orf_copy_number,3981,2138,5.198976559220161,181.08681537327027,6.046950171411562,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.18,1937718534,structural,3285,3096,7.808356275889355,2461.081769309719,303.76425052779734,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.18,1937718534,orf_copy_number,3285,2015,5.684409356509109,294.2440004121616,8.996518517468681,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.2,4261704054,structural,2941,2822,7.800090661340908,2440.8232559029548,546.2255131038837,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.2,4261704054,orf_copy_number,2941,1962,5.997664791846105,402.4878024172882,12.303093880372607,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.25,2443038446,structural,2162,2136,7.637629148346186,2074.818892942896,1632.0684357541902,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.25,2443038446,orf_copy_number,2162,1655,6.399455941159109,601.5176878153025,24.127870003303585,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.3,1581526928,structural,1562,1556,7.345952259223903,1549.9101790340655,1530.642409033877,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.0,0.3,1581526928,orf_copy_number,1562,1314,6.531325031885329,686.3069879220941,44.57313018378456,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.03,3807846787,structural,8388,2808,3.4969470750731784,33.01450713682952,2.43686157044501,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.03,3807846787,orf_copy_number,8388,1155,1.5901943874444089,4.904702248202527,1.4305131931992368,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.05,2604182243,structural,7374,3531,4.892888538629078,133.33817077964534,4.269772398688474,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.05,2604182243,orf_copy_number,7374,1500,2.389492521612317,10.90795698579367,1.7902098187582909,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.07,2312135107,structural,6526,3990,5.979049104392994,395.0645243688347,7.892126344658898,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.07,2312135107,orf_copy_number,6526,1750,3.0723407374307685,21.59238567359607,2.2327980602835416,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.09,1859482873,structural,5888,4173,6.660789625459162,781.1675234230137,13.705733799513895,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.09,1859482873,orf_copy_number,5888,2013,3.815021165341436,45.3777168076532,2.944102503568822,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.1,920122771,structural,5595,4254,7.072756103893166,1179.394091606183,21.6681687075734,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.1,920122771,orf_copy_number,5595,2118,4.144971784596149,63.11584103767697,3.383655220249252,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.12,1352135446,structural,4949,4054,7.408605854897098,1650.124229880529,38.77565071740792,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.12,1352135446,orf_copy_number,4949,2180,4.696484447530259,109.56132602753694,4.469817337290103,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.15,2004561742,structural,4111,3715,7.787887600513969,2411.218741466593,123.98172588087702,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.15,2004561742,orf_copy_number,4111,2208,5.351492104017188,210.92278191708533,6.692663673109586,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.18,2061484420,structural,3458,3256,7.852121678562015,2571.1837592690167,297.8124128312412,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.18,2061484420,orf_copy_number,3458,2128,5.861810994540853,351.35987901262786,10.300922432299268,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.2,1091403980,structural,3078,2946,7.833792441304249,2524.4852039621856,516.3551340745586,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.2,1091403980,orf_copy_number,3078,2026,5.96810728428814,390.765362632985,11.659550063995267,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.25,1135711084,structural,2217,2193,7.668881077325165,2140.6848438805014,1773.7600144352216,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.25,1135711084,orf_copy_number,2217,1698,6.445923125673168,630.1280959820992,25.24662656729143,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.3,4122858386,structural,1715,1706,7.4337422074543005,1692.1280338954468,1629.4875346260394,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,1.5,0.3,4122858386,orf_copy_number,1715,1444,6.6711951402720215,789.3384110806671,52.22438253520126,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.03,1713891987,structural,8402,2722,3.411878567954862,30.322153014157383,2.3729282308378608,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.03,1713891987,orf_copy_number,8402,1079,1.5132572078891586,4.541499336618727,1.4054748084239934,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.05,3032681791,structural,7391,3607,4.983727918692555,146.01771043378528,4.450053142191429,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.05,3032681791,orf_copy_number,7391,1497,2.4090048836171705,11.12288706883525,1.803694975948864,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.07,1316201356,structural,6597,4044,6.014730059877028,409.41530638056935,8.057674223812754,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.07,1316201356,orf_copy_number,6597,1817,3.1619209722626627,23.61591790725677,2.2963342418155475,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.09,3674923251,structural,5881,4185,6.749321650286706,853.4796084661599,15.057264880984771,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.09,3674923251,orf_copy_number,5881,1974,3.76092502695355,42.9881728110173,2.888088390157498,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.1,1477168291,structural,5523,4213,7.088408484778075,1197.9996479110623,22.359569924946506,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.1,1477168291,orf_copy_number,5523,2027,4.074966326981457,58.84849894838736,3.314489543452008,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.12,2079310279,structural,4813,3927,7.325673278180571,1518.7961267959954,34.82820268793196,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.12,2079310279,orf_copy_number,4813,2081,4.586915253805441,98.19106798154236,4.256736595580079,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.15,1585545789,structural,4057,3596,7.666750644123997,2136.129112379793,90.9526648799492,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.15,1585545789,orf_copy_number,4057,2123,5.187425332431443,179.0070753995655,6.053119466300864,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.18,3604147398,structural,3407,3221,7.868606063889029,2613.9194108508086,356.9936644625557,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.18,3604147398,orf_copy_number,3407,2051,5.694543738823723,297.24114304885893,9.038050033130656,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.2,780218145,structural,3060,2937,7.842344437738157,2546.1671723366635,570.3947368421054,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.2,780218145,orf_copy_number,3060,2020,6.086901554008211,440.0558074610721,13.40798442064266,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.25,1592633087,structural,2262,2238,7.688429106003339,2182.942695808897,1787.7861635220129,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.25,1592633087,orf_copy_number,2262,1739,6.503869459639967,667.7203576661698,27.1175298382481,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.3,2700327069,structural,1707,1701,7.434513009236511,1693.432832005454,1666.0085763293307,False
+partial_hic_fallback,partially Hi-C-informed sampling with distance-based fallback,2.0,0.3,2700327069,orf_copy_number,1707,1448,6.725050819649814,833.0143089662109,60.39691159705668,False
