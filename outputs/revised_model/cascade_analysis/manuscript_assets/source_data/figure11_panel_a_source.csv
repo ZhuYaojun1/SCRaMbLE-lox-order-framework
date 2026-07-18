@@ -1,0 +1,9 @@
+model_key,precursor_event_type,n_sampled_events,hazard_increase_events,hazard_decrease_events,hazard_unchanged_events,hazard_increase_fraction,hazard_decrease_fraction,median_hazard_log2_ratio_nonzero,q025_hazard_log2_ratio_nonzero,q975_hazard_log2_ratio_nonzero,label
+linear_distance,inversion,2200,546,476,1178,0.2481818181818181,0.2163636363636363,0.0,-0.0056463170068725,0.0053368497675339,"Linear
+inversion"
+partial_hic_fallback,inversion,2200,1287,231,682,0.585,0.105,0.0013366591925094,-0.0027668869387602,0.0241149370064861,"Partial Hi-C
+inversion"
+linear_distance,duplication,2185,82,2103,0,0.0375286041189931,0.9624713958810068,-0.0122837457102678,-0.6460594399120317,0.0002252522961727,"Linear
+duplication"
+partial_hic_fallback,duplication,2200,64,2136,0,0.029090909090909,0.9709090909090908,-0.0160258561194303,-0.8065708689908405,4.768251420941428e-05,"Partial Hi-C
+duplication"

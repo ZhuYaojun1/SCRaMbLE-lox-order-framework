@@ -39,6 +39,22 @@ The main grid contains 88 scenarios: two primary sampling models, four alpha val
 | `exact_coordinate_gene_risk.csv` | strict-gate genes observed in gate-failing trajectories, limited to exact-mapped chromosomes |
 | `endpoint_isomorphism_audit.csv` | provenance-aware versus copy-label-invariant endpoint comparisons |
 
+## Rearrangement-cascade outputs
+
+| File | Unit of observation and interpretation |
+|---|---|
+| `cascade_precursor_events.csv.xz` | one inversion or duplication preceding a terminal Gate-failing deletion; contains exact terminal-pair accessibility, distance, proposal-probability, lethality, and sampled all-pair hazard fields |
+| `cascade_trajectory_effects.csv.xz` | one Gate-failing trajectory with at least one non-deletion precursor; records history class and trajectory-level cascade indicators |
+| `cascade_replay_audit.csv` | one formal-grid scenario; reconciles logged events, Gate failures, replayed trajectories, precursor events, sampled hazard states, and replay mismatches |
+| `cascade_event_effect_summary.csv` | scenario- and pooled event-level cascade effects by precursor type |
+| `cascade_trajectory_effect_summary.csv` | pooled trajectory-level fractions and Wilson intervals by precursor type |
+| `cascade_sequence_summary.csv` | Gate-failing trajectory counts by event-history class |
+| `cascade_mechanism_summary.csv` | mutually exclusive immediate effects on the eventual terminal-deletion pair |
+| `cascade_total_hazard_sample_summary.csv` | direction and distribution of the exact one-step Gate-failing deletion hazard in a deterministic scenario-stratified sample |
+| `cascade_gene_summary.csv` | associations between precursor histories and Essentiality Gate genes absent after the later terminal deletion; not causal gene effects |
+| `CASCADE_ANALYSIS_VALIDATION.md` | accounting closure and logical-consistency checks for the replay |
+| `manuscript_assets/` | Figure 10, Figure 11, Table 11, their plotted source data, and a standalone Word package |
+
 ## Terminology
 
 - **Essentiality Gate-passing fraction:** fraction of initialized trajectories retaining at least one copy of every gene in the selected gate.
@@ -46,3 +62,4 @@ The main grid contains 88 scenarios: two primary sampling models, four alpha val
 - **Structural endpoint:** canonical ordered segment/lox topology with orientation, adjacency, and active-copy identity.
 - **ORF copy-number endpoint:** gene-copy vector reported separately from structural topology.
 - **Partially Hi-C-informed sampling with distance-based fallback:** direct SynII contact mass plus current-topology distance fallback; non-SynII and unmatched pairs use fallback only.
+- **Rearrangement-cascade effect:** a state-replay comparison of how an earlier inversion or duplication changes a later Gate-failing deletion path under the model; retrospective terminal-pair results are conditional on eventual Gate failure.

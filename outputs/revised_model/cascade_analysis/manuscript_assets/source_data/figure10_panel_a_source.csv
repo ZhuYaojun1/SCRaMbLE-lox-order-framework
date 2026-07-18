@@ -1,0 +1,9 @@
+history_class,label,gate_failing_trajectories,percent
+duplication_only_history,Duplication history,26090,5.947008032677772
+mixed_inversion_duplication,"Mixed inversion–
+duplication",26561,6.054368737292231
+earlier_deletion_only,Earlier deletion only,27015,6.157854427090457
+earlier_deletion_with_nondeletion,"Earlier deletion +
+non-deletion",49483,11.27925636186256
+inversion_only_history,Inversion history,94112,21.452082022666556
+deletion_only,Deletion only,215447,49.109430418410426

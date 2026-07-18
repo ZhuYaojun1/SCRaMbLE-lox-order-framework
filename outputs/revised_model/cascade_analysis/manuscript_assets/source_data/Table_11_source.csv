@@ -1,0 +1,13 @@
+Analysis level,Rearrangement class or measure,Count,Result
+Trajectory history,Any preceding inversion or duplication,"196,246 / 438,708 trajectories",44.73% of Gate-failing trajectories
+Event replay,Inversion precursors,"241,208 events in 162,430 trajectories",All events before the terminal deletion
+Event replay,Duplication precursors,"86,890 events in 74,133 trajectories",All events before the terminal deletion
+Exact terminal pair,Hazard increased after inversion,"8,836 / 241,208 events","3.66% (95% Wilson interval, 3.59–3.74%)"
+Exact terminal pair,Hazard increased after duplication,"3,270 / 86,890 events","3.76% (95% Wilson interval, 3.64–3.89%)"
+Trajectory level,At least one inversion-associated increase,"8,597 / 162,430 trajectories","5.29% (95% Wilson interval, 5.18–5.40%)"
+Trajectory level,At least one duplication-associated increase,"3,270 / 74,133 trajectories","4.41% (95% Wilson interval, 4.27–4.56%)"
+Finite probability amplification,"Inversion, ≥2-fold / ≥10-fold / ≥100-fold","1,155 / 110 / 7 events","Maximum finite increase, 248.06-fold"
+Copy-specific pair creation,Duplication activated the eventual terminal pair,"3,437 / 86,890 events",3.96%
+Gate-span change,Inversion activated a Gate-failing deletion span,"705 / 241,208 events",0.29%
+All-pair one-step hazard sample,Hazard increased after inversion,"1,833 / 4,400 states",41.66%; 16.07% decreased and 42.27% were unchanged
+All-pair one-step hazard sample,Hazard decreased after duplication,"4,239 / 4,385 states",96.67%; 3.33% increased

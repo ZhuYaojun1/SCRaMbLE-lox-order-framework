@@ -1,6 +1,6 @@
 # Public release checks
 
-Validation date: 2026-07-18
+Validation date: 2026-07-19
 
 | Check | Result | Observed |
 |---|---|---|
@@ -14,6 +14,12 @@ Validation date: 2026-07-18
 | Main-grid scenarios | PASS | 88 |
 | Predicted lox-frequency rows | PASS | 42,944 = 88 x 488 |
 | Endpoint-count file readability | PASS | 478,374 aggregated rows |
+| Cascade scenarios audited | PASS | 88 of 88 |
+| Cascade replay accounting | PASS | 328,098 precursor events and 196,246 trajectories reconciled |
+| Cascade replay mismatches | PASS | 0 |
+| Cascade logical checks | PASS | 13 of 13 checks |
+| Cascade manuscript source data rebuild | PASS | all six CSV source tables matched byte for byte |
+| Cascade PNG rebuild | PASS | both 400-dpi PNG files matched byte for byte |
 | Private absolute-path scan | PASS | no project-drive absolute path or named user path retained |
 | GitHub single-file size limit | PASS | no file is 100 MB or larger |
 

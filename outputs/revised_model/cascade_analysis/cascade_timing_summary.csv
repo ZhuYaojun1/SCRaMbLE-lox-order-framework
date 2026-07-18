@@ -1,0 +1,7 @@
+precursor_event_type,timing_class,n_precursor_events,final_pair_hazard_increase_events,final_pair_hazard_increase_fraction
+duplication,immediate_predecessor,45448,1765,0.03883559232529484
+duplication,three_or_more_events_before_failure,18853,694,0.03681111759401687
+duplication,two_events_before_failure,22589,811,0.03590243038647129
+inversion,immediate_predecessor,129452,4988,0.0385316565213361
+inversion,three_or_more_events_before_failure,49401,1540,0.03117345802716544
+inversion,two_events_before_failure,62355,2308,0.03701387218346564

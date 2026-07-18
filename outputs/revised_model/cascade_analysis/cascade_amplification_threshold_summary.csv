@@ -1,0 +1,9 @@
+precursor_event_type,change_class,n_precursor_events,n_trajectories
+inversion,at_least_2_fold,1155,1153
+inversion,at_least_10_fold,110,110
+inversion,at_least_100_fold,7,7
+inversion,new_pair_activation,0,0
+duplication,at_least_2_fold,0,0
+duplication,at_least_10_fold,0,0
+duplication,at_least_100_fold,0,0
+duplication,new_pair_activation,3437,3437

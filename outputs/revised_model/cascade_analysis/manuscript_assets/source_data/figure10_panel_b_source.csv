@@ -1,0 +1,11 @@
+precursor_event_type,cascade_mechanism,n_events,n_trajectories,event_fraction_within_type,label
+duplication,distance_lengthening,8434,8000,0.0970652549200138,Distance lengthening
+duplication,essential_copy_buffering,126,125,0.0014501093336402,Copy-number buffering
+duplication,final_pair_activation,3437,3437,0.0395557601565197,New terminal pair
+duplication,no_direct_effect_on_final_pair,541,477,0.0062262630912648,No direct effect
+duplication,proposal_space_renormalization,74352,64485,0.8557026124985614,Pair-space renormalization
+inversion,distance_lengthening,7879,7661,0.032664754071175,Distance lengthening
+inversion,distance_shortening,8132,7910,0.0337136413385957,Distance shortening
+inversion,essential_copy_buffering,5,5,2.072899737985473e-05,Copy-number buffering
+inversion,lethal_span_activation,705,705,0.0029227886305595,Lethal-span activation
+inversion,no_direct_effect_on_final_pair,224487,154441,0.9306780869622898,No direct effect

@@ -1,0 +1,13 @@
+{
+  "source": "completed deterministic replay outputs",
+  "scenario_count": 88,
+  "logged_events": 1596885,
+  "gate_failing_trajectories": 438708,
+  "replayed_trajectories_with_nondeletion_precursors": 196246,
+  "nondeletion_precursor_events": 328098,
+  "sampled_total_hazard_events": 8785,
+  "replay_mismatches": 0,
+  "postprocessing_chunk_size": 25000,
+  "top_event_count": 200,
+  "selection_seed": 20260718
+}
