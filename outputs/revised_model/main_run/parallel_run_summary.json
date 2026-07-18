@@ -1,0 +1,8 @@
+{
+  "scenario_count": 88,
+  "workers": 1,
+  "n_trajectories_per_scenario": 10000,
+  "all_return_codes_zero": true,
+  "total_worker_seconds": 12852.843385700002,
+  "maximum_worker_seconds": 264.3951259000005
+}
